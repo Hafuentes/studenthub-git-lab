@@ -18,4 +18,5 @@ Managed with Git and GitHub.
 
 ## Collaboration
 
-Development follows a branch and pull request workflow.
+Development follows a branch and pull request workflow, as requested.
+
